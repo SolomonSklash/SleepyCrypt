@@ -1,3 +1,5 @@
+; This code is borrowed from https://github.com/paranoidninja/PIC-Get-Privileges
+
 extern run
 global alignstack
 
