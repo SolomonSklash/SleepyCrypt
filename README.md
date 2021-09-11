@@ -2,7 +2,7 @@
 
 A shellcode function to encrypt a running process image in memory when sleeping.
 
-This is the companion code for my blog post [here](https://www.solomonsklash.io/SOMETHING.html).
+This is the companion code for my blog post [here](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html).
 
 ## Build
 
